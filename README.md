@@ -1,38 +1,19 @@
-## Welcome to GitHub Pages for Optimisation
+# Website Optimisation
+
+- [NOT_Exports and international markets](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets)
+
+## Research timeline
+
+- [NOT_Research Timeline](/timeline.md)
+- [NOT_Research Timeline - Summary](/timelinelight.md)
+
+## Discovery 2020
+- [NOT_User Needs from Cross Gov research - Phase 1](/files/UserNeeds_2020.pdf)
 
 
-You can use the [editor on GitHub](https://github.com/scotentSD/optimisation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### Draft
+- [NOT_Export Theme & Element prioritisation -Draft v0.1](/files/Trade_element_and_theme_priritisations.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resources from past Export Projects
+- [NOT_Export Advisory Service Customer Journey](files/EAS_Journey_Worshop v4.pdf)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scotentSD/optimisation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
