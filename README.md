@@ -1,4 +1,4 @@
-# SE Website OPtimisation
+# SE Website Optimisation
 
 ## HR Recruitment Improvements
 
