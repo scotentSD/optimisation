@@ -3,8 +3,8 @@
 ## HR Recruitment Improvements
 
 - [Read recruitment blog](Recruitment_blog)
-- [yyy](zzz)
-- [zzz](zzz)
+- [User testing](SE-CareersContent.pdf)
+- [Recruitment research findings](SE-Research_findings_recruitment.pdf)
 
 
 ## Research timeline
