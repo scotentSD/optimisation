@@ -2,7 +2,7 @@
 
 ## HR Recruitment Improvements
 
-- [xxx](zzz)
+- [Read recruitment blog](Recruitment_blog.html)
 - [yyy](zzz)
 - [zzz](zzz)
 
